@@ -1,3 +1,3 @@
 # GeeksforGeeks
 
-Just another reminder
+Geeks4Geeks submissions
